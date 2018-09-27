@@ -1,4 +1,4 @@
-In this project, Apache Spark is used to develop an email classification algorithm using natural language processing techniques and the mutual information measurement. Apache Spark is a fast and general engine for large-scale data processing, as we can see on their website (​ http://spark.apache.org/​ ).
+In this project, Apache Spark is used to develop a "spam/ham" keywords identifier to be used in an email classification algorithm. This task was achieved by using natural language processing techniques and the mutual information measurement. Apache Spark is a fast and general engine for large-scale data processing, as we can see on their website (​ http://spark.apache.org/​ ).
 
 Natural Language processing is a multi-disciplinary field related to computer science and artificial intelligence. It is used in many application such as machine translation, information extraction, summarization or question answering.
 
